@@ -1,0 +1,6 @@
+
+
+New start of logging. Datetime: 2022.05.08_004022 
+No;Datetime, dd/mm/yyyy hh:mm:ss;GPS Time, hhmmssddmmyy;Status;Antenna;Longitude;Latitude;Altitude, m;Speed, km/h;Course
+1;'05/08/2022 00:40:22;'022615080522;NOF;OPEN;0,0000000;0,00000;0,0;0,00;0,0
+2;'05/08/2022 00:40:23;'022616080522;NOF;OPEN;0,0000000;0,00000;0,0;0,00;0,0

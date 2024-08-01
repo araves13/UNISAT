@@ -1,0 +1,5 @@
+
+
+New start of logging. Datetime: 2022.05.10_003946 
+Datetime, dd/mm/yyyy hh:mm:ss;HDC TEMP, `C;HDC HUM, %;LPS PRESS, hPa;LPS TEMP, `C;LSM TEMP, `C;LSM AX, mg;LSM AY, mg;LSM AZ, mg;LSM GX;LSM GY;LSM GZ;PM2.5;PM10;EXT_TEMP, `C;BATT, V;VSYS, V
+'05/10/2022 00:39:46;17,3;85;964,7;18,4;13,2;-68,1;-566,1;-87,8;0,0;0,0;-700,0;44,8;270,9;-100,0;2,44;0,02
